@@ -14,10 +14,13 @@ Pada project kali ini kami mengangkat kasus dari website Film yang dimana para p
 
 Flowchart
 
+![Website Film Mapping(1) drawio(4)](https://github.com/N4bilFikri/Kelompok-18-PA-PBO/assets/126855271/436146eb-fd4b-4877-b8e7-d01ead1e15ed)
+
 
 Hirearki Kelas
 
 ![Hierarcy drawio](https://github.com/N4bilFikri/Kelompok-18-PA-PBO/assets/126855271/9fb91aef-6345-4d20-9942-66faa68daefc)
+
 
 
 
