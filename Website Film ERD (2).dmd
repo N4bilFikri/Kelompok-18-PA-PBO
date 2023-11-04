@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Website Film ERD" id="16E6DE6A-68AD-F4D8-F53F-6D4F36545CE4" version="3.5">
+<createdBy>deram</createdBy>
+<createdTime>2023-10-31 02:00:47 UTC</createdTime>
+<ownerDesignName>Website Film ERD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>16E6DE6A-68AD-F4D8-F53F-6D4F36545CE4</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="62396E90-62C6-EA1F-2225-447F519ED4CF">
+<designStoragePath>D:\defaults\Datamodeller\Website Film ERD</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
